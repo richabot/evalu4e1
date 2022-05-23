@@ -1,3 +1,19 @@
+
 .task {
-  /* Sample  */
+display: flex;
+
+}
+
+.text1{
+  margin-left: 70px;
+  font-size: 23px;
+  margin-right: 85px;
+}
+.remove1{
+  height: 27px;
+    margin-left: 20px;
+}
+.check1{
+height: 20px;
+width: 30px;
 }

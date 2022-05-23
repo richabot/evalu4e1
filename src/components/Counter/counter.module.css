@@ -1,3 +1,25 @@
+
 .counter {
-  /* TODO */
+display: flex;
+}
+.plus{
+  margin-left: 27px;
+  margin-right: 14px;
+  height: 27px;
+
+}
+
+.minus{
+  margin-left: 27px;
+  margin-right: 14px;
+  height: 27px;
+}
+
+.counter>button{
+  color: red;
+}
+.span{
+  margin-bottom: 36px;
+  margin-right: 4px;
+  color: #0a0a09;
 }

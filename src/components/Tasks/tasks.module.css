@@ -1,7 +1,18 @@
+/* taskmodule css */
 .tasks {
   /* sample */
 }
 
 .empty {
   /* sample */
+  width: 50px;
+  height:50px;
+  text-align: center;
+  margin:auto;
+}
+.ptag{
+  width:100px;
+}
+.h3tag{
+  width: auto;
 }
